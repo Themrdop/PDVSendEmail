@@ -1,0 +1,11 @@
+{
+  "azureFunctions.javaBuildTool": "maven",
+  "azureFunctions.deploySubpath": "target/azure-functions/SendVoucherEmail-1727567248653",
+  "azureFunctions.projectLanguage": "Java",
+  "azureFunctions.projectRuntime": "~4",
+  "debug.internalConsoleOptions": "neverOpen",
+  "azureFunctions.preDeployTask": "package (functions)",
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "azureFunctions.templateFilter": "All",
+  "java.compile.nullAnalysis.mode": "automatic"
+}
